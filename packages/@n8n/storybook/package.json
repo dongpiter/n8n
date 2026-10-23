@@ -16,6 +16,6 @@
     "@storybook/vue3": "^8.4.6",
     "@storybook/vue3-vite": "^8.4.6",
     "chromatic": "^11.20.0",
-    "storybook": "^8.4.6"
+    "storybook": "^8.6.19"
   }
 }
